@@ -2,7 +2,9 @@
 
 
 <img src='./366422104_1070552743924507_953706037877883994_n.jpg' width='250px'/>
-<p>I am a web designer interested in creating attractive and user-friendly websites. My skills include web design and development (front-end).
+<br><br><br>
+<h1>I am a web designer interested in creating attractive and user-friendly websites.<br> My skills include web design and development (front-end).</h1>
+<p align='left'>
 
 Education: Specialization in web design and development. Familiarity with web concepts.
 
