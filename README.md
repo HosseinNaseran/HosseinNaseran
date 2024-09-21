@@ -8,8 +8,8 @@
 </div>
 <p align='left'>
 
-Education: Specialization in web design and development. Familiarity with web concepts.
+<h6>Education:</h6> Specialization in web design and development. Familiarity with web concepts.
 
-Skills: HTML, CSS ,Flexbox, English language ( upper-intermediate)
+Skills : HTML , CSS , Bootstrap , wordpress , English language ( upper-intermediate )
 
-Career Objective: I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p>
+Career Objective : I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p>
