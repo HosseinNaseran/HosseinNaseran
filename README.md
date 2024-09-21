@@ -3,7 +3,7 @@
 
 <img src='./366422104_1070552743924507_953706037877883994_n.jpg' width='250px'/>
 <br><br><br>
-<h1>I am a web designer interested in creating attractive and user-friendly websites.<br> My skills include web design and development (front-end).</h1>
+<h1>I am a web designer interested in creating attractive and user-friendly websites.<br><br> My skills include web design and development (front-end).</h1>
 
 </div>
 <p align='left'>
