@@ -14,5 +14,5 @@
 
 <h6>Career Objective :</h6> I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p>
 
-<h3>My experience :</h3>
-<img src='https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,gmail,linkedin,pycharm,vscode' alt='experience' align='center'/>
+<h6>Experiences :</h6>
+<img src='https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,linkedin,gmail,pycharm,vscode&theme=light ' alt='experience'/>
