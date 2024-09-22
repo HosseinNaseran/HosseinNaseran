@@ -1,7 +1,7 @@
 <div align='center'>
 
 
-<img src='./366422104_1070552743924507_953706037877883994_n.jpg' width='250px'/>
+<img src='./1727026808221.png' width='250px' alt='image'/>
 <br><br><br>
 <h1>I am a web designer interested in creating attractive and user-friendly websites.<br><br> My skills include web design and development (front-end).</h1>
 
