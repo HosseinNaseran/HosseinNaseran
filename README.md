@@ -13,3 +13,6 @@
 <h6>Skills :</h6> HTML , CSS , Bootstrap , wordpress , English language ( upper-intermediate ) <br>
 
 <h6>Career Objective :</h6> I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p>
+
+<h3>My experience :</h3>
+<img src='https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,gmail,linkedin,pycharm,vscode' alt='experience' align='center'/>
