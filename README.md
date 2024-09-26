@@ -8,14 +8,21 @@
 </div>
 <p align='left'>
 
-<h6>Education:</h6> Specialization in web design and development. Familiarity with web concepts. <br>
+## Education:
+Specialization in web design and development. Familiarity with web concepts. <br>
 
-<h6>Skills :</h6> HTML , CSS , Bootstrap , wordpress , English language ( upper-intermediate ) <br>
+## Career Objective :
+I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p><br>
 
-<h6>Career Objective :</h6> I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hosseinnaseran) 
 
-<h6>Experiences :</h6>
-<img src='https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,linkedin,gmail,pycharm,vscode&theme=light&perline=4 ' alt='experience'/>
 
-<h6>Socials :</h6>
-<a href="https://t.me/H3T_ORG" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HosseinNaseran&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HosseinNaseran&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinNaseran&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
