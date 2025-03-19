@@ -15,7 +15,7 @@ Specialization in web design and development. Familiarity with web concepts. <br
 I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hosseinnaseran) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinnaseran) 
 
 
 # 💻 Tech Stack:
