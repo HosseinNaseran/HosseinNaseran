@@ -1,7 +1,7 @@
 <div align='center'>
 
 
-<img src='./1727026808221.png' width='250px' alt='image' padding-up='0px' margin-up='0px'/>
+<img src='./download.svg' width='500px' alt='image' padding='0px' margin='0px'/>
 <br>
 <h1>I am a web designer interested in creating attractive and user-friendly websites.<br><br> My skills include web design and development (front-end).</h1>
 
