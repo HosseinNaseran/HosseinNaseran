@@ -3,16 +3,22 @@
 
 <img src='./download.svg' width='500px' alt='image' padding='0px' margin='0px'/>
 <br>
-<h1>I am a web designer interested in creating attractive and user-friendly websites.<br><br> My skills include web design and development (front-end).</h1>
+<h1>Frontend Developer | React 
+
+
+</h1>
 
 </div>
 <p align='left'>
 
-## Education:
-Specialization in web design and development. Familiarity with web concepts. <br>
+I build modern, fast, and user-friendly web applications using React, TypeScript, and Tailwind CSS.
+<br>
 
-## Career Objective :
-I am seeking an internship position in a dynamic company to enhance my skills and engage in continuous learning</p><br>
+Focused on:
+• React.js
+• Modern UI/UX
+• Clean Code Architecture
+• Performance optimization</p><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hosseinnaseran ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinnaseran )  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossein.naseran@gmail.com) 
