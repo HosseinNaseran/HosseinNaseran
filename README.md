@@ -1,8 +1,4 @@
 <div align='center'>
-
-
-<img src='./download.svg' width='500px' alt='image' padding='0px' margin='0px'/>
-<br>
 <h1>Frontend Developer | React 
 
 
