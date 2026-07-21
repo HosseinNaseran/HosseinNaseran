@@ -15,9 +15,13 @@ I build modern, fast, and user-friendly web applications using React, TypeScript
 <br>
 
 Focused on:
+<br>
 • React.js
+<br>
 • Modern UI/UX
+<br>
 • Clean Code Architecture
+<br>
 • Performance optimization</p><br>
 
 ## 🌐 Socials:
